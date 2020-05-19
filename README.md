@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Imagen
 
-![DemoApp](https://github.com/Gonan98/flutter-demo-app/tree/master/image/screenshot_demo_app.jpg)
+![DemoApp](https://github.com/Gonan98/flutter-demo-app/blob/master/image/screenshot_demo_app.jpg)
